@@ -35,6 +35,8 @@
 }
 .col-group .col-group {
   padding: 0;
+  margin-left: -16px;
+  margin-right: -16px;
 }
 .col-group [class*="push-"],
 .col-group [class*="pull-"] {
