@@ -5,16 +5,6 @@
  * Site: http://fluidable.com
  * Date: 07.08.2014
  */
-/*
-	
-	Config
-
-*/
-/*
- 	
-	Mobile and up
- 
-*/
 .col-group {
   zoom: 1;
 }
@@ -114,11 +104,6 @@
   padding-right: 16px;
   padding-left: 16px;
 }
-/*
- 	
-	Tablet and up
- 
-*/
 @media (min-width: 768px) {
   .container {
     max-width: 704px;
@@ -302,11 +287,6 @@
     content: ".";
   }
 }
-/*
- 	
-	Desktop and up
- 
-*/
 @media (min-width: 992px) {
   .container {
     max-width: 928px;
@@ -478,11 +458,6 @@
     left: 0%;
   }
 }
-/*
- 	
-	Large desktop and up
- 
-*/
 @media (min-width: 1200px) {
   .container {
     max-width: 1136px;
@@ -654,11 +629,6 @@
     left: 0%;
   }
 }
-/*
- 	
-	Other
- 
-*/
 .center-block {
   margin: 0 auto;
 }
